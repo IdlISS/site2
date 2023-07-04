@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.cabecalho {
+    background-color: #0d30f5;
+    color: #fff8f8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem {
+    width: 120px;
+}
+
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola-div-conteudo {
+    padding: 50px;
+}
+
+.escola-titulo {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.escola-texto-dois {
+    margin-bottom: 24px;
+}
+
+.escola-imagem {
+    width: 100%;
+}
+
+.emilio-texto {
+    background-color: #00ffd5;
+    color: #070404;
+    padding: 16px;
+}
+
+.estudante {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-todos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+}
+
+.imagem-estudante {
+    width: 120px;
+    margin: 8px;
+}
+
+h2, h3 {
+    background-color: #07e7f7;
+    color: #000000;
+    margin-bottom: 16px;
+}
+.body{
+    background-image:  #ffffff;
+}
+body {
+    background-color: cyan;
+}
